@@ -1,12 +1,6 @@
 ### How to use this template:
 
-1. Opening the template
-     * If you downloaded the zip file, open the unzipped **folder** `html-css-template-pfnp` in a text editor  
-     (e.g. [Sublime Text 2](http://www.sublimetext.com/2)).
-     * If you cloned the project using git, open the **folder** `html-css-template` in a text editor  
-     (e.g. [Sublime Text 2](http://www.sublimetext.com/2)).
-
-2. Using the template  
+1. Using the template  
   
    #### HTML
      * Start with `index.html`, this will be your root page (the main page)  
